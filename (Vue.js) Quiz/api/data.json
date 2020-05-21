@@ -1,0 +1,28 @@
+{
+	"steps": [
+		{
+			"question": "What dinasty is responsible for building the majority of the Great Wall?",
+			"answers": [
+				{ "text": "Qin" },
+				{ "text": "Han" },
+				{ "text": "Ming", "correct": true }
+			]
+		},
+		{
+			"question": "What is unique about the culture of the Dong People?",
+			"answers": [
+				{ "text": "They have no written language", "correct": true },
+				{ "text": "They shun all outsiders" },
+				{ "text": "They do not eat vegetables" }
+			]
+		},
+		{
+			"question": "What is the most popular surname in China?",
+			"answers": [
+				{ "text": "Li" },
+				{ "text": "Wang", "correct": true },
+				{ "text": "Chen" }
+			]
+		}
+	]
+}
